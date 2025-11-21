@@ -1,0 +1,27 @@
+body {
+    background-color: black;
+    color: white;
+}
+
+h1 {
+    text-transform: uppercase;
+    /* font: the Regular Libre Baskerville; */
+    font-family: "Libre Baskerville", serif;
+    font-style: normal;
+}
+
+/* p {
+    text-align: center;
+} */
+
+img {
+   border: 5px solid white; 
+   width: 100%;
+}
+
+.card {
+    width: 50%;
+    /* margin-top: 5%; */
+    margin-left: 25%;
+    text-align: center;
+}
